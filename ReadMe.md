@@ -11,10 +11,19 @@ Gostamos de levar conhecimento para aqueles que são iniciantes na linguagem Pyt
 
 Nossa live acontecerá na [twitch](https://www.twitch.tv/teomewhy) no dia 30/01 ás 9:00 da manhã.
 
+| Horário | Programação |
+|-|-|
+| 8:30 | Portões abertos |
+| 9:00 | Início do curso |
+| 12:00 | Almoço |
+| 13:00 | Retomada |
+| 17:00 | Encerramento |
+
+
 # Conteúdo
 
 Vamos navegar por funcionalidade que utilizamos no dia a dia em trabalho que envolvem análise e manipulação de dados. Fazemos questão de apresentar os conceitos básicos e evoluir para assuntos mais sofisticados, como _joins_ e _group-by_.
 
 # Dados
 
-Os dados que utilizaremos serão referentes à eleiçòes brasileiras entre os anos de 2014 e 2018. Realizamos alguns ajustes para trabalhar com estes dados provenientes do [BrasilIO](https://brasil.io/dataset/eleicoes-brasil/bens_candidatos/)
+Os dados que utilizaremos serão referentes à eleiçòes brasileiras entre os anos de 2014 e 2018. Realizamos alguns ajustes para trabalhar com estes dados provenientes do [BrasilIO](https://brasil.io/dataset/eleicoes-brasil/bens_candidatos/), e você pode obtê-los [aqui](https://github.com/TeoCalvo/imersao-pandas/tree/main/data)
