@@ -1,7 +1,7 @@
 # Imersão de Pandas
 
 <img src="https://i.postimg.cc/XvWmKNzR/tmw-intensivo-Pandas-jan2021-Artboard-1.jpg
-" alt="PandasBanner" width="720" height="405">
+" alt="" width="500" height="250">
 
 
 Seja bem vindo ao [Téo Me Why](https://www.twitch.tv/teomewhy), um canal na Twitch e YouTube destinado a ajudar todos aqueles que desejam aprender um pouco mais sobre a vida de um cientista de dados. Nossa missão é levar conteúdo relevante, apresentando a realidade e os desafios enfrentados por um profissional desta área.
