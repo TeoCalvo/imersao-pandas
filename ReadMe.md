@@ -24,6 +24,8 @@ Todos aqueles que são iniciantes na linguagem Python, bem como no mundo de Data
 
 Nossa live acontecerá na [twitch](https://www.twitch.tv/teomewhy) no dia 30/01 ás 9:00 da manhã.
 
+Para aqueles que são Subs Twitch, a gravação da live está disponível em nosso histórico, pode conferir.
+
 | Horário | Programação |
 |-|-|
 | 8:30 | Portões abertos |
@@ -83,4 +85,4 @@ Vamos navegar por funcionalidade que utilizamos no dia a dia em trabalho que env
 
 # Dados
 
-Os dados que utilizaremos serão referentes à eleiçòes brasileiras entre os anos de 2014 e 2018. Realizamos alguns ajustes para trabalhar com estes dados provenientes do [BrasilIO](https://brasil.io/dataset/eleicoes-brasil/bens_candidatos/), e você pode obtê-los [aqui](https://github.com/TeoCalvo/imersao-pandas/tree/main/data)
+Os dados que utilizaremos serão referentes à eleiçòes brasileiras entre os anos de 2014 e 2018. Realizamos alguns ajustes para trabalhar com estes dados provenientes do [BrasilIO](https://brasil.io/dataset/eleicoes-brasil/bens_candidatos/), e você pode obtê-los [aqui](https://github.com/TeoCalvo/imersao-pandas/tree/main/data).
