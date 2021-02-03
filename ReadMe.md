@@ -14,6 +14,7 @@ Seja bem vindo ao [Téo Me Why](https://www.twitch.tv/teomewhy), um canal na Twi
 Todos aqueles que são iniciantes na linguagem Python, bem como no mundo de Data Science e Análise de Dados serão bem vindos à nossa imersão. Basta comparecer durante a transmissão, a parada é grátis e é ao vivo.
 
 **Aviso: A live não ficará gravada!!!**
+Para aqueles que são Subs Twitch, a gravação da live está disponível em nosso histórico, pode conferir.
 
 ### Regras:
 * Ser gentil
@@ -24,7 +25,6 @@ Todos aqueles que são iniciantes na linguagem Python, bem como no mundo de Data
 
 Nossa live acontecerá na [twitch](https://www.twitch.tv/teomewhy) no dia 30/01 ás 9:00 da manhã.
 
-Para aqueles que são Subs Twitch, a gravação da live está disponível em nosso histórico, pode conferir.
 
 | Horário | Programação |
 |-|-|
